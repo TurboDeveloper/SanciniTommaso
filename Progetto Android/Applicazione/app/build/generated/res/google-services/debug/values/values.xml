@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">788142653930-nrkakcr9u7kae4j8v11o4n2ir2h4bvbl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://turista-felice-c9f64.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">788142653930</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBnpmPWEsBUfL63uTEXK85NH2U7LBpIM0</string>
+    <string name="google_app_id" translatable="false">1:788142653930:android:fd08a9c2c0576d54fab293</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBnpmPWEsBUfL63uTEXK85NH2U7LBpIM0</string>
+    <string name="google_storage_bucket" translatable="false">turista-felice-c9f64.appspot.com</string>
+    <string name="project_id" translatable="false">turista-felice-c9f64</string>
+</resources>

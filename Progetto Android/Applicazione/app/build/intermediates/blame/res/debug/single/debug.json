@@ -1,0 +1,914 @@
+[
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favorite_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_near_me_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_near_me_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_wave.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/wave.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_wave.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/wave.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_name_profile.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xhdpi/ic_action_name_profile.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_interests_footer.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/interests_footer.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_heart_big.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-hdpi/heart_big.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_name_home.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-mdpi/ic_action_name_home.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_account_box_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_account_box_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_account_box_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_arrow_down.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_name_heart.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxxhdpi/ic_action_name_heart.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_lock_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_interests.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_interests.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_mail.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-hdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_beach_sunset_login.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/beach_sunset_login.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_round_border2.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/round_border2.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_visibility_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_near_me_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_near_me_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_heart_big.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxhdpi/heart_big.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_heart_big.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-mdpi/heart_big.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_mountain_registration_view2.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/mountain_registration_view2.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_sl_favourite_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/sl_favourite_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_name_heart.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xhdpi/ic_action_name_heart.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_arrow_down.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_profile_default.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxhdpi/ic_profile_default.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lock_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_favorites_fragment.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_favorites_fragment.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_no_photo.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xhdpi/no_photo.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_account_box_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_favorite_border_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_border_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_name_home.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxhdpi/ic_action_name_home.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_background_gradient.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/menu_bottom_navigation_menu.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_phone.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_rosa_dei_venti2.jpg.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xhdpi/rosa_dei_venti2.jpg"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_mail.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-mdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_favorite_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_name_home.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxxhdpi/ic_action_name_home.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_name_heart.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-mdpi/ic_action_name_heart.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_name_profile.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxxhdpi/ic_action_name_profile.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_no_photo.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-mdpi/no_photo.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_round_border.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/round_border.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_arrow_down.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_round_button.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_no_photo.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxhdpi/no_photo.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_settings_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_rosa_dei_venti.jpg.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/rosa_dei_venti.jpg"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_wave.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/wave.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_no_photo.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxxhdpi/no_photo.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_phone_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_wave.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/wave.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_mountain_registration_view.jpg.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/mountain_registration_view.jpg"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_name_profile.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-mdpi/ic_action_name_profile.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_name_profile.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxhdpi/ic_action_name_profile.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_phone_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_visibility_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_visibility_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_phone.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_mail.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_user.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-hdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_favorite_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_near_me_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_near_me_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_registration.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_registration.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_near_me_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_near_me_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_interests_header.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/interests_header.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_heart_big.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxxhdpi/heart_big.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_profile.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_phone.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-mdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_child_items_interests.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/child_items_interests.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_profile_default.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-hdpi/ic_profile_default.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_result_details.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_result_details.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_group_items_interests.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/group_items_interests.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_user.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_phone_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_phone_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_name_heart.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-hdpi/ic_action_name_heart.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_name_profile.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-hdpi/ic_action_name_profile.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_favorites_places.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_favorites_places.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_user.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxxhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_place_item.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/place_item.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_wave.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/wave.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_lock_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favorite_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lock.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_name_heart.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxhdpi/ic_action_name_heart.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_arrow_down.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_profile_default.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xhdpi/ic_profile_default.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_user.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-mdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_wave.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/wave.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/font_oleo_script.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/font/oleo_script.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_wave.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/wave.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_city_trip_item.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/city_trip_item.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_phone_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_lock.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_phone_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_near_me_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_near_me_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_arrow_down.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_arrow_down.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/font_roboto.ttf.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/font/roboto.ttf"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_account_box_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_account_box_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lock.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_near_me_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_near_me_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_mail.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_round_bg.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/round_bg.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_phone.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_background.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_edit_text_style.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/edit_text_style.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_favorite_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_visibility_off_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_visibility_off_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_result.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_result.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_loading_item.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/loading_item.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_account_box_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_account_box_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_profile_default.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-mdpi/ic_profile_default.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_arrow_down.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_mail.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_name_home.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xhdpi/ic_action_name_home.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_account_circle_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_phone.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-hdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_start.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_start.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_profile_default.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xxxhdpi/ic_profile_default.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_account_circle_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_visibility_off_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_visibility_off_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_phone_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_phone_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lock_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_near_me_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_near_me_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_name_home.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-hdpi/ic_action_name_home.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_heart_big.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-xhdpi/heart_big.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_user.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xxhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_round_exp_list.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/round_exp_list.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_no_photo.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable-hdpi/no_photo.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/layout_fragment_no_favorites.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/layout/fragment_no_favorites.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable_round_border3.xml.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/drawable/round_border3.xml"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favorite_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_arrow_down.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-ldpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-mdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/generated/res/pngs/debug/drawable-hdpi/ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/j.r/Documents/GitHub/Progetto_Android_Turista/Applicazione/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    }
+]

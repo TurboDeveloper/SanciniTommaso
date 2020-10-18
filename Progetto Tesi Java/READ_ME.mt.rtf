@@ -1,0 +1,22 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww15060\viewh10160\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ##\
+PIATTAFORMA DI GESTIONE DATI RDF IN FORMATO PROPERTY GRAPH\
+\
+Progetto di tesi     23 ottobre 2020\
+\
+L\'92 applicazione \'e8 stata sviluppata interamente con JAVA (8), e una serie di librerie di Apache Jena per supporto alla lettura di grandi file *rdf.\
+\'c8 in grado di mappare dataset in formato RDF ( anche di grosse dimensioni es. 40Mln di triple) in query del linguaggio \'93Cypher\'94 ; linguaggio adottato dal sistema di gestione di grafici con propriet\'e0 Neo4j.\
+\
+FUNZIONAMENTO:\
+Da riga di comando:\
+\
+       $java -jar rdf_to_pg_st  <path/dati_rdf> <path/schema_rdfs>\
+\
+Il programma prende in input il file di dati(.ttl) rdf e lo schema RDFS relativo al file, e genera due output \'93instance.ypg\'94 e \'93schema.ypg\'94 che rappresentano le query cypher che generano i dati e lo schema Property Graph.\
+In cartella si trovano due dataset utilizzabili come prova. ( dataset dati contenente 32 mila triple).}

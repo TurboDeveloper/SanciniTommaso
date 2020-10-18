@@ -16,6 +16,9 @@ deve poter consultare e pianificare in anticipo ciò che vuole visitare salvando
 i luoghi nei preferiti.
 
 
+Codice sorgente disponibile nel repository GitHub:
+https://github.com/TurboDeveloper/SanciniTommaso/tree/master/Progetto%20Android
+
 
 Componenti Team Gaucho :
 
